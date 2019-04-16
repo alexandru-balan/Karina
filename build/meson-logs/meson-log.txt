@@ -1,0 +1,30 @@
+Build started at 2019-04-16T13:34:53.810918
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.50.0
+Source dir: /home/prongs/Projects/Karina-reworks
+Build dir: /home/prongs/Projects/Karina-reworks/build
+Build type: native build
+Project name: karina-reworks
+Project version: 0.1.0
+Native C compiler: cc (gcc 9.0.1 "cc (GCC) 9.0.1 20190312 (Red Hat 9.0.1-0.10)")
+Native Vala compiler: valac (valac 0.44.3)
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Dependency gtk+-3.0 found: YES (cached)
+Build targets in project: 1
+Found ninja-1.9.0 at /usr/bin/ninja
+Running compile:
+Working directory:  /tmp/tmpkvrcu73j
+Command line:  cc /tmp/tmpkvrcu73j/testfile.c -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpkvrcu73j/output.obj -O0 --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ install: /usr/lib/gcc/x86_64-redhat-linux/9/
+programs: =/usr/libexec/gcc/x86_64-redhat-linux/9/:/usr/libexec/gcc/x86_64-redhat-linux/9/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/9/:/usr/lib/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/9/../../../../x86_64-redhat-linux/bin/x86_64-redhat-linux/9/:/usr/lib/gcc/x86_64-redhat-linux/9/../../../../x86_64-redhat-linux/bin/
+libraries: =/usr/lib/gcc/x86_64-redhat-linux/9/:/usr/lib/gcc/x86_64-redhat-linux/9/../../../../x86_64-redhat-linux/lib/x86_64-redhat-linux/9/:/usr/lib/gcc/x86_64-redhat-linux/9/../../../../x86_64-redhat-linux/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/9/../../../x86_64-redhat-linux/9/:/usr/lib/gcc/x86_64-redhat-linux/9/../../../../lib64/:/lib/x86_64-redhat-linux/9/:/lib/../lib64/:/usr/lib/x86_64-redhat-linux/9/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/9/../../../../x86_64-redhat-linux/lib/:/usr/lib/gcc/x86_64-redhat-linux/9/../../../:/lib/:/usr/lib/
+
+Compiler stderr:
+ 
