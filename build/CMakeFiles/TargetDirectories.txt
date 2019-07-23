@@ -1,0 +1,3 @@
+/home/alexandru-balan/Documents/github/Karina/build/CMakeFiles/rebuild_cache.dir
+/home/alexandru-balan/Documents/github/Karina/build/CMakeFiles/Karina.dir
+/home/alexandru-balan/Documents/github/Karina/build/CMakeFiles/edit_cache.dir
